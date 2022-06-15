@@ -11,7 +11,7 @@ namespace MyDemoWebApp.Pages
     {
         public void OnGet()
         {
-		Console.Log("asdfasdf");
+		//comments
         }
     }
 }
